@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[251],{1773:(e,n,t)=>{t.r(n),t.d(n,{default:()=>r});var c=t(821);const l={},r=(0,t(3744).Z)(l,[["render",function(e,n){return(0,c.openBlock)(),(0,c.createElementBlock)("h1",null,"Contact")}]])}}]);
